@@ -5,6 +5,8 @@ A traffic-video analysis project developed for the **Image Processing** course d
 **Author:** Ava Moshfegh  
 **Completed:** 31 December 2024
 
+Since this project was done on Google Colab, I no longer have access to my codes, therefore I only describe what I had done.
+
 The project detects and counts **cars, buses, and trucks** in traffic videos. It combines image preprocessing, deep-learning detection, vehicle tracking, and directional counting to study how different processing choices affect the final counts.
 
 The work focuses on comparing preprocessing and detection configurations, checking predicted counts against annotated video data, and evaluating performance across different traffic scenes, including nighttime footage.
